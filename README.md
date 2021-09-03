@@ -17,16 +17,4 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 
 
 
-## Status do meu GitHub
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EvertonCarvalho1&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&bg_color=#7d0a29
-" alt="Everton's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EvertonCarvalho1&layout=compact&theme=vision-friendly-dark" />
-</a>
-
-
-
 
