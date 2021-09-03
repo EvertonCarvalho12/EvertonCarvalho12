@@ -6,13 +6,9 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 
 ## Sobre mim
 
-- 🚀 Buscando novos desafios
-
 - 💻 Skills: React.js, Node.js, JSX, CSS...
 
 - 💼 Ferramentas: VS Code, Git, GitHub, Postman...
-
-- 💌 Entre em contato caso queira conversar ou desenvolver um projeto comigo:
 
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959766136)
